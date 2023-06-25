@@ -131,6 +131,5 @@ dmypy.json
 /node_modules
 
 .idea
-/.github
 docker-compose.production.yml
 docker-compose.yml
